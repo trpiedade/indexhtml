@@ -49,7 +49,7 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -69,9 +69,11 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#7c7c7c"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -83,8 +85,8 @@
           "_anchor": "ext_menu-37",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#7c7c7c",
-            "transparent": true,
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -103,7 +105,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         }
@@ -111,7 +113,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Bolsas & Malas",
+        "title": "Bolsas",
         "meta_descr": "Fabricado em Portugal",
         "header_custom": "",
         "footer_custom": "",
@@ -142,8 +144,8 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#7c7c7c",
-            "transparent": true,
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -162,7 +164,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -375,20 +377,20 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
             "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "page3.html": {
       "settings": {
-        "title": "Bolsas & Malas",
+        "title": "Malas",
         "meta_descr": "Fabricado em Portugal",
         "header_custom": "",
         "footer_custom": "",
@@ -422,8 +424,8 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#7c7c7c",
-            "transparent": true,
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -442,7 +444,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -493,14 +495,14 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
             "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -536,9 +538,9 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-26",
           "_params": {
-            "color": "#7c7c7c",
-            "hamburgerColor": "#000000",
-            "transparent": true,
+            "color": "#f97352",
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -557,7 +559,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -584,8 +586,8 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nuv-s-wall-by-nuvem-1280x1024-72.jpg",
-            "bgColor": "#7c7c7c",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo%20feito%20%C3%81%20m%C3%83o-2000x1333.png",
+            "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
@@ -597,7 +599,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>MORADA</strong><br>Rua da Milharada<br>Massamá, Portugal<br><br>\n<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:trpiedade@gmail.com\" class=\"text-black\">trpied\u001bade@gmail.com</a><br>\nPhone: +351&nbsp;<br>",
+          "text1": "<strong>MORADA</strong><br>Rua da Milharada<br>Massamá, Portugal<br><br>\n<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:trpiedade@gmail.com\" class=\"text-black\">trpied\u001bade@gmail.com</a><br>\nPhone: +351 92<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>"
         },
         {
@@ -612,7 +614,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo%20feito%20%C3%81%20m%C3%83o-2000x1333.png",
-            "bgColor": "#7c7c7c",
+            "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -647,7 +649,32 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTE-NOS</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTE-NOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
+          },
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -668,11 +695,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#7c7c7c"
+              "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -683,9 +712,9 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-37",
           "_params": {
-            "color": "#7c7c7c",
-            "hamburgerColor": "#000000",
-            "transparent": true,
+            "color": "#f97352",
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -704,7 +733,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -724,7 +753,7 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -733,13 +762,46 @@
           },
           "title": "Produtos de Fabrico Artesanal e Exclusivos<br>",
           "text": "<br>A nossa vantagem em relação ao mercado é marcar a diferença pelos tecidos usados e pela sua manufacturação de todos os modelos como peças únicas e exclusivas.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Faça aqui a sua encomenda</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Faça aqui a sua encomenda</a> ",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "H1": {
+              "color": "#cccccc"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
+          },
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "page6.html": {
       "settings": {
-        "title": "Bolsas & Malas",
+        "title": "Porta Moedas",
         "meta_descr": "Fabricado em Portugal",
         "header_custom": "",
         "footer_custom": "",
@@ -773,8 +835,8 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#7c7c7c",
-            "transparent": true,
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -793,7 +855,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -868,20 +930,20 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
             "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
     "page7.html": {
       "settings": {
-        "title": "Bolsas & Malas",
+        "title": "Guarda Joias",
         "meta_descr": "Fabricado em Portugal",
         "header_custom": "",
         "footer_custom": "",
@@ -916,7 +978,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#7c7c7c"
             },
@@ -930,8 +994,8 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#7c7c7c",
-            "transparent": true,
+            "hamburgerColor": "#f97352",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -950,7 +1014,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS &nbsp; &nbsp; &nbsp; TRPiedade</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
         },
@@ -1037,14 +1101,14 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
             "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     }
