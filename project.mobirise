@@ -1,0 +1,1052 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "3.11.1",
+    "name": "www.Bolsas&Malas.com",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "uniqCompNum": 62
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "SPAN": {
+              "color": "#27aae0"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-12",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv-s-wall-by-nuvem-1280x1024-60.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "<span style=\"color: inherit; font-family: inherit;\">BOLSAS &amp; MALAS TRP</span><br>",
+          "text": "Todas as Bolsas e Malas são de fabrico artesanal e modelos únicos, ou seja a nível de padrão, tecido e acabamentos são sempre exclusivos, não se repetem uma única peça para que estas sejam peças de valor acrescentado.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joías</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a> "
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-37",
+          "_params": {
+            "color": "#f97352",
+            "hamburgerColor": "#7c7c7c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "color": "#f97352",
+            "hamburgerColor": "#7c7c7c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Bolsa de mao ref. 1001",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1001-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1001-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1001",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1002<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1002-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1002-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1002",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1003",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1003-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1003-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1003",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1004",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1004-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1004-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1004",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-13-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1005",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1005-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1005-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1005",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-14-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-14-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1006-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1006-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-15-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-15-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1007",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1007-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1007-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1007",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-16-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-16-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1008",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-17-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-17-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1009",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-18-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-18-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1010",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-19-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-19-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1011<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-20-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-20-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1012",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-21-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-21-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1013",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-22-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-22-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1014",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-23-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-23-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1015",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-24-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-24-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1016",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-25-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-25-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1017",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-26-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-26-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1018",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-27-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-27-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1019",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-28-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-28-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1020",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-29-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-29-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1021",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-30-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-30-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1021",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-31-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-31-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#f97352",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1i",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "color": "#f97352",
+            "hamburgerColor": "#7c7c7c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Mala ref. 2001",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-32-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-32-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2002",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-33-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-33-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#f97352",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1l",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#7c7c7c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-26",
+          "_params": {
+            "color": "#7c7c7c",
+            "hamburgerColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "16px",
+              "color": "#c1c1c1",
+              "text-align": "left"
+            }
+          },
+          "coord": [
+            38.7544749,
+            -9.280755999999997
+          ],
+          "_anchor": "contacts2-30",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv-s-wall-by-nuvem-1280x1024-72.jpg",
+            "bgColor": "#7c7c7c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "Rua da Milharada Massamá Portugal",
+              "placeId": "EiZSLiBkYSBNaWxoYXJhZGEsIDI3NDUgUXVlbHV6LCBQb3J0dWdhbA",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>MORADA</strong><br>Rua da Milharada<br>Massamá, Portugal<br><br>\n<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:trpiedade@gmail.com\" class=\"text-black\">trpied\u001bade@gmail.com</a><br>\nPhone: +351&nbsp;<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo%20feito%20%C3%81%20m%C3%83o-2000x1333.png",
+            "bgColor": "#7c7c7c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "",
+          "form": {
+            "action": "trpiedade@gmail.com",
+            "alerts": {
+              "success": "Obrigado pela sua escolha!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Messagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTE-NOS</a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#7c7c7c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-37",
+          "_params": {
+            "color": "#7c7c7c",
+            "hamburgerColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_anchor": "header1-41",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv-s-wall-by-nuvem-1280x1024-51.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Produtos de Fabrico Artesanal e Exclusivos<br>",
+          "text": "<br>A nossa vantagem em relação ao mercado é marcar a diferença pelos tecidos usados e pela sua manufacturação de todos os modelos como peças únicas e exclusivas.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Faça aqui a sua encomenda</a> "
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "color": "#f97352",
+            "hamburgerColor": "#7c7c7c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Porta Moedas ref. 4001",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-42-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-42-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4002",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-43-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-43-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4003<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-44-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-44-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4004",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-45-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-45-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4005",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-46-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-46-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-47-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-47-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#f97352",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1p",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Bolsas & Malas",
+        "meta_descr": "Fabricado em Portugal",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showText": true,
+            "images": [],
+            "bgColor": "#c1c1c1",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-n",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "color": "#f97352",
+            "hamburgerColor": "#7c7c7c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-10.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "BOLSAS & MALAS TRP",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">\u001b\u001bBOLSAS &amp; MALAS TRP</a><a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" style=\"background-color: rgb(44, 44, 44); line-height: 1.42857143; display: inline !important;\"></a><br>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joias</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a></li>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Porta Moedas ref. 4001",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-34-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-34-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4002",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-35-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-35-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4003<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-36-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-36-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4004",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-37-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-37-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4005",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-38-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-38-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-39-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-39-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-40-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-40-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-41-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-41-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#f97352",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1n",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    }
+  }
+}
