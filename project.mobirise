@@ -130,9 +130,11 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#7c7c7c"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -410,9 +412,11 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#7c7c7c"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -821,9 +825,11 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#7c7c7c"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -882,9 +888,9 @@
               },
               {
                 "caption": "Porta Moedas ref. 4003<br>",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-44-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-44-2000x1333.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/ref-48-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-48-2000x1333.jpg",
+                "active": true
               },
               {
                 "caption": "Porta Moedas ref. 4004",
@@ -902,7 +908,7 @@
                 "caption": "Porta Moedas ref. 4006",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-47-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-47-2000x1333.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": true,
@@ -982,7 +988,7 @@
               "background": "#f97352"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#7c7c7c"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
