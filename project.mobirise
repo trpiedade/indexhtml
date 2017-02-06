@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "2.11.1",
     "versionPublish": "3.11.1",
     "name": "www.Bolsas&Malas.com",
@@ -208,31 +208,31 @@
                 "caption": "Bolsa de mao ref. 1001",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-1001-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-1001-2-2000x1333.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Bolsa de mao ref. 1001",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-49-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-49-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Bolsa de mao ref. 1002<br>",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-1002-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-1002-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1002-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1002-1-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Bolsa de mao ref. 1002",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-50-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-50-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Bolsa de mao ref. 1003",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-1003-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-1003-2000x1333.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1003-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1003-1-2000x1333.jpg",
+                "active": true
               },
               {
                 "caption": "Bolsa de mao ref. 1003",
