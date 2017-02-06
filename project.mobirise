@@ -61,6 +61,31 @@
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bolsas</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Malas</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Guarda Joías</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Porta Moedas</a> "
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nuv_s_wall__by_nuvem-2000x1600.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000000"
+          },
+          "text": "\u001bCopyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
           "_inherit": "menu",
           "_styles": {
             ".mbr-brand__name": {
@@ -73,7 +98,7 @@
               "background": "#f97352"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -85,7 +110,7 @@
           "_anchor": "ext_menu-37",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -134,7 +159,7 @@
               "background": "#f97352"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -146,7 +171,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -181,9 +206,9 @@
             "images": [
               {
                 "caption": "Bolsa de mao ref. 1001",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-1001-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-1001-1-2000x1333.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1001-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1001-2-2000x1333.jpg",
+                "active": true
               },
               {
                 "caption": "Bolsa de mao ref. 1001",
@@ -351,7 +376,7 @@
                 "caption": "Bolsa de mao ref. 1021",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-31-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-31-2000x1333.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": true,
@@ -416,7 +441,7 @@
               "background": "#f97352"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -428,7 +453,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -527,11 +552,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#7c7c7c"
+              "background": "#f97352"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#f97352"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -543,7 +570,7 @@
           "_anchor": "ext_menu-26",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -603,7 +630,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>MORADA</strong><br>Rua da Milharada<br>Massamá, Portugal<br><br>\n<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:trpiedade@gmail.com\" class=\"text-black\">trpied\u001bade@gmail.com</a><br>\nPhone: +351 92<br>",
+          "text1": "<strong>MORADA</strong><br>Rua da Milharada<br>Massamá, Portugal<br><br>\n<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:trpiedade@gmail.com\" class=\"text-black\">trpied\u001bade@gmail.com</a><br>\nPhone: +351 925 906 792<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>"
         },
         {
@@ -699,13 +726,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#eb6b56"
             },
             ".mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#eb6b56"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -717,7 +744,7 @@
           "_anchor": "ext_menu-37",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -744,6 +771,14 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "H1": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "header1-41",
           "_params": {
             "parallax": true,
@@ -766,15 +801,7 @@
           },
           "title": "Produtos de Fabrico Artesanal e Exclusivos<br>",
           "text": "<br>A nossa vantagem em relação ao mercado é marcar a diferença pelos tecidos usados e pela sua manufacturação de todos os modelos como peças únicas e exclusivas.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Faça aqui a sua encomenda</a> ",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            },
-            "H1": {
-              "color": "#cccccc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Faça aqui a sua encomenda</a> "
         },
         {
           "_tags": [
@@ -823,13 +850,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#eb6b56"
             },
             ".mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#eb6b56"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -841,7 +868,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -988,7 +1015,7 @@
               "background": "#f97352"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#7c706b"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -1000,7 +1027,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#7c706b",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
