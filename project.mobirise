@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "versionFirst": "2.11.1",
     "versionPublish": "3.11.1",
     "name": "www.Bolsas&Malas.com",
@@ -488,14 +488,14 @@
             "images": [
               {
                 "caption": "Mala ref. 2001",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-32-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-32-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-51-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-51-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Mala ref. 2002",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-33-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ref-33-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-52-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-52-2000x1333.jpg",
                 "active": true
               }
             ],
